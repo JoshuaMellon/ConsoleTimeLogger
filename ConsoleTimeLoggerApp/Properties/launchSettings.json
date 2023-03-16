@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleTimeLoggerApp": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Mello\\OneDrive\\Documents\\ConsoleTimeLogger\\ConsoleTimeLoggerApp\\"
+    }
+  }
+}
