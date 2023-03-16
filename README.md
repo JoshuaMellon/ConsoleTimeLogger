@@ -8,7 +8,7 @@
 - [ ] The application should only be terminated when the user inserts 0. 
 - [ ] You can only interact with the database using raw SQL. You can’t use mappers such as Entity Framework
 - [ ] Reporting Capabilities
-- [ ] 
+
 # Features
 
 * SQLite database connection
